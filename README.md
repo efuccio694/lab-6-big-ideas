@@ -1,1 +1,1 @@
-asidjj;aojga# lab-6-big-ideas
+# lab-6-big-ideas
