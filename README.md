@@ -19,3 +19,6 @@
 ### NumbersGame.py 
 #### Authored by Madeleine Lasky 
 **Description:** This game takes in a name as input as well as a guess for a secret integer. If the guess matches the secret number, then the secret number is revealed.
+
+#### Why We Picked The License And Code of Conduct
+The programs are for academic purposes and are simple programs that anyone should have access to and can contribute to. This is why we decided not to have any restrictions with the liscencing. For the code of conduct, we wanted to create a cordial collaborative enviroment in the spirit of education that encourages diversity of opinion.
